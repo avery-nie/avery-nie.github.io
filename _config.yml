@@ -44,6 +44,10 @@ header_pages:
 
 show_excerpts: true
 
+website: https://avery-nie.github.io
+basewebsite: /blog
+permalink: date
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
